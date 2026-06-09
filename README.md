@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Salary Prediction Using Machine Learning
 
 ## Project Overview
@@ -45,3 +46,7 @@ The Multiple Feature Model performed better than the Single Feature Model and wa
 ## Author
 
 Aditya Jagdale
+=======
+# Syntecxhub_Salary_Prediction
+Salary Prediction using Multiple Linear Regression
+>>>>>>> a71e7f09fefc8c1de7049809e3732eb5d43a1da6
